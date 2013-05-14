@@ -1,4 +1,5 @@
-# encoding=utf-8
+#!/usr/bin/python
+# -*- coding: <encoding name> -*-
 from threading import Thread
 import socket
 class ClientThread(Thread):
